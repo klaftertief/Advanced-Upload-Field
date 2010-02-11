@@ -4,8 +4,8 @@
 
 		public function about() {
 			return array(
-				'name'			=> 'Field: Advanced Upload',
-				'version'		=> '1.0',
+				'name'			=> 'Field: Advanced File Upload',
+				'version'		=> '0.9',
 				'release-date'	=> '2010-02-11',
 				'author'		=> array(
 					'name'			=> 'Jonas Coch',
