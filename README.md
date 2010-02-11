@@ -1,9 +1,9 @@
 # Field: Advanced File Upload
 
-Version: 0.9
-Author: Jonas Coch
-Build Date: 2010-02-11
-Requirements: Symphony 2
+* Version: 0.9
+* Author: Jonas Coch
+* Build Date: 2010-02-11
+* Requirements: Symphony 2
 
 ## Installation
 
